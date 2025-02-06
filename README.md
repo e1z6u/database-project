@@ -1,4 +1,4 @@
-# Mobile Application Development
+# Database Final Project: A Note Mobile Application
 
 # Title
 ## Notes Application
